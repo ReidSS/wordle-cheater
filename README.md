@@ -1,5 +1,5 @@
 # wordle-cheater
-Personal project to help me cheat at wordle 
+Personal project to help me cheat at wordle. This uses Python 3.9. 
 
 You will need to run generateAll5LetterWords.py first to get the list of all 5 letter words.
 
